@@ -1,1 +1,6 @@
-// Code your solution in this file!
+// JS variables lab!
+const companyName = 'Scuber';
+
+let mostProfitableNeighborhood = 'Chelsea';
+
+let companyCeo = 'Susan Smith';
